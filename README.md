@@ -8,7 +8,7 @@ blog: https://trap.jp/author/mazrean/
 [![trophy](https://github-profile-trophy.vercel.app/?username=mazrean&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![mazrean's github stats](https://github-readme-stats.vercel.app/api?username=mazrean&show_icons=true&count_private=true&line_height=40&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazrean&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazrean&layout=compact&theme=merko&exclude_repo=slides)
 
 <!--
 **mazrean/mazrean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
